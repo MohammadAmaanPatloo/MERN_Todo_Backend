@@ -1,6 +1,4 @@
 # MERN_Todo_Backend
-Backend deployed on render: https://mernapptodobackend.onrender.com
-
 
 <p>Developed a feature-rich Todo List application using the MERN (MongoDB, Express.js, React.js, Node.js) stack, incorporating comprehensive CRUD (Create, Read, Update, Delete) functionalities. Implemented an intuitive user interface that allows users to efficiently manage and prioritize their tasks, promoting productivity and organization.
 
